@@ -37,6 +37,7 @@ Hey! I'm a senior at Boston University pursuing a B.A. in Computer Science with 
 - Java
 - Scala
 - C
+
 ### Databases 
 - SQL
 - MongoDB
