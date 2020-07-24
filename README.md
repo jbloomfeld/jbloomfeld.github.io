@@ -1,14 +1,37 @@
 # Profile
-Hey! I'm a senior at Boston University pursuing a B.A. in Computer Science with a minor in Business Administration & Management. Strong work experience, reliable, conscientious, and committed to quality and excellence. 
+Hello! My name is Jake Bloomfeld and I work in the consulting organization within Pegasystems. I develop software for customer relationship management, digital process automation, and business process management. Our delivery vision is "quickly building high-quality, outcome-driven applications that evolve with the changing needs of your business." Studying both computer science and business in undergrad, 
 
 # Education
 ### Boston University
-- Major: Computer Science
-- Minor: Business Administration & Management
-- Bachelor of Arts expected May 2019
-- GPA: 3.3
+ - Bachelor of Arts in Computer Science w/ a minor in Business Administration & Management
+ - Class of 2019
+ - GPA: 3.34
+ 
+# Certifications
+### Pega
+- Pega Certified System Architect (PCSA), issued July 2019
+- Pega Certified Senior System Architect (PCSSA), issued October 2019
+- Pega Certified Decisioning Consultant (PCSC), issued April 2020
+- Pega Certified Data Scientist (PCDS), issued April 2020
+### General
+- Big Data Foundations - Level 1, issued June 2018
+- Professional Scrum Master I (PSM I), issued November 2019
 
 # Work Experience
+### Associate System Architect
+**Pegasystems** July 2019 – Present
+- Provide consulting services on project assignments to drive clients’ digital transformation
+-	Lay the foundation by identifying key high-level elements of an application, like microjourneys, personas, and data
+-	Complement Pega-specific best practices with core Agile principles to maximize the value and longevity of the solution
+-	Focus on the “Minimum Loveable Product” (MLP) to target a first production release in weeks, with continuously iterating based on user feedback and business changes
+-	Continuously learn the functionalities of Pega to keep up with new features
+
+### System Project Manager
+**BU Spark!** September 2018 – May 2019
+-	Oversaw data science and machine learning projects within Spark!’s X-Lab program 
+-	Communicated with students and clients to help track and manage project progress
+-	Provided any administrative or technical support that students or clients may need 
+
 ### Software Development Intern
 **UnitedHealth Group, Optum** May 2018 – August 2018
 -	Developed a product that detects anomalies in claim data, with estimated company savings of roughly $10 million a year in rework costs
@@ -68,8 +91,9 @@ Hey! I'm a senior at Boston University pursuing a B.A. in Computer Science with 
 -	Data Mechanics
 -	Programming Languages
 -	Software Engineering
--	Databases (in progress)
--	Compressive Sensing in Big Data (in progress)
+-	Databases
+-	Compressive Sensing in Big Data
+- Data Systems Architecture
 
 ### Business Administration
 -	Microeconomic Analysis
@@ -78,7 +102,9 @@ Hey! I'm a senior at Boston University pursuing a B.A. in Computer Science with 
 -	Intro to Finance
 -	Financial Accounting
 -	Probabilistic and Statistical Decision Making for Management
--	Information Systems (in progress)
--	Managerial Accounting (in progress)
+-	Information Systems
+-	Managerial Accounting
+- Web App Development
+- Organizational Behavior
 
 
